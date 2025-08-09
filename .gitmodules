@@ -1,0 +1,6 @@
+[submodule "Day44-ops"]
+	path = Day44-ops
+	url = https://github.com/27Mikael/Day44-ops
+[submodule "Day44-modpack"]
+	path = Day44-modpack
+	url = https://github.com/27Mikael/Day44-modpack
